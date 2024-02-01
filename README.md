@@ -12,20 +12,18 @@ Fuelled by curiosity since my early days, I journeyed into front-end development
 
 ## Projects
 
-### Project 1: [Portfolio Playground](your-portfolio-link)
-- **Description:** Step into my digital playground—a personal portfolio that's more than a resume. It's a showcase of skills, a canvas of creativity, and an open invitation to explore.
-- **Role:** Full-stack Explorer (Front-end and Back-end)
-- **Technologies:** HTML, CSS, JavaScript, React, Redux, GSAP, Bootstrap
+### Project 1: [Pomodoro](https://pomodoro-f91a6.web.app/auth?mode=login))
+Description: Immerse yourself in the Pomodoro technique—a time management method that utilizes intervals of focused work (typically 25 minutes) followed by short breaks. This digital implementation enhances productivity with features like task tracking, customizable timer settings, and seamless synchronization across devices. As a Full-stack Explorer, I played a pivotal role in crafting the front-end and back-end functionalities.
+Technologies: React, Redux, Redux Toolkit,React Router DOM, Firebase, Tailwind CSS, Framer Motion
 
-### Project 2: [E-commerce Oasis](link-to-ecommerce)
-- **Description:** An e-commerce oasis where products shine, animations delight, and the user experience is a journey. Join the adventure and explore a new way to shop.
-- **Role:** Front-end Navigator
-- **Technologies:** React, Redux Toolkit, Framer Motion, Tailwind CSS, React Router DOM
+### Project 2: [Movies Trailers website]((https://movies-website-9373a.web.app/))
+- **Description:** A movies website that shows most recent and popular movies and its trailers and its news
+- **Role:** Front-end 
+- **Technologies:** React, Redux, React Router DOM, BootStrap, Axios
 
 ## Let's Connect!
 
 - **LinkedIn:** [Yousef Sayed Saad](https://www.linkedin.com/in/yousef-sayed-67b4061a2/)
-- **Portfolio:** [Unveil the Magic](your-portfolio-link)
 - **Email:** yousef.sayed.work@gmail.com
 - **Phone:** +201121196781
 
