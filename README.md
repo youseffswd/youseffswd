@@ -12,11 +12,11 @@ Fuelled by curiosity since my early days, I journeyed into front-end development
 
 ## Projects
 
-### Project 1: [Pomodoro](https://pomodoro-f91a6.web.app/auth?mode=login))
+### Project 1: [Pomodoro](https://pomodoro-f91a6.web.app/auth?mode=login)
 Description: Immerse yourself in the Pomodoro technique—a time management method that utilizes intervals of focused work (typically 25 minutes) followed by short breaks. This digital implementation enhances productivity with features like task tracking, customizable timer settings, and seamless synchronization across devices. As a Full-stack Explorer, I played a pivotal role in crafting the front-end and back-end functionalities.
 Technologies: React, Redux, Redux Toolkit,React Router DOM, Firebase, Tailwind CSS, Framer Motion
 
-### Project 2: [Movies Trailers website]((https://movies-website-9373a.web.app/))
+### Project 2: [Movies Trailers website](https://movies-website-9373a.web.app/)
 - **Description:** A movies website that shows most recent and popular movies and its trailers and its news
 - **Role:** Front-end 
 - **Technologies:** React, Redux, React Router DOM, BootStrap, Axios
